@@ -1,0 +1,19 @@
+body{
+background-image: url('my.jpg');
+  background-size: 30;
+  background-repeat: 0;
+  margin: 20;
+  padding: 20;
+  font-family: Arial, sans-serif;
+}
+a {
+    color: #d720b2;
+    text-decoration: none;
+    font-weight: bold;
+}
+#logo {
+    float: left;
+    margin-right: 20px;
+    max-width: 80px; /* Adjust the size as needed */
+    max-height: 80px; /* Adjust the size as needed */
+}
